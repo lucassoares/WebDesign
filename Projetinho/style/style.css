@@ -1,0 +1,28 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	background-color: #222;
+	color: white;
+}
+.paragrafo-branco{
+	background-color: white;
+	color: #222;
+}
+.titulo-blocos{
+	margin-bottom: 10px;
+}
+#titulo{
+	margin: 15px;
+}
+#barra{
+	width: 100%;
+	height: 15px;
+	padding: 15px;
+	background-color: white;
+}
+#main{
+	padding: 15px;
+}

@@ -1,0 +1,24 @@
+/*Utilizando id e classes para manipulação das tags em HTML*/
+body{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h1{
+	color: gray;
+	font-size: 60px;
+}
+p{
+	font-size: 40px;
+}
+#vermelho{
+	color: red;
+}
+#verde{
+	color: green;
+}
+#azul{
+	color: blue;
+}
+.paragrafo{
+	border: 1px solid black;
+	padding: 10px;
+}
